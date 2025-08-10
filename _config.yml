@@ -1,0 +1,8 @@
+title: Schneckenreise
+description: Mein Weg in kleinen Schritten – ehrlich dokumentiert.
+theme: minima
+author: Fabian
+show_excerpts: true
+minima:
+  skin: classic
+markdown: kramdown
